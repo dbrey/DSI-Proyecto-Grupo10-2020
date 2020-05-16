@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\DSI Hito 5\\DSI-Proyecto-Grupo10-2020\\DSI Hito5 Grupo 10\\DSI_Hito5_Grupo10.csproj": {}
+  },
+  "projects": {
+    "E:\\DSI Hito 5\\DSI-Proyecto-Grupo10-2020\\DSI Hito5 Grupo 10\\DSI_Hito5_Grupo10.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\DSI Hito 5\\DSI-Proyecto-Grupo10-2020\\DSI Hito5 Grupo 10\\DSI_Hito5_Grupo10.csproj",
+        "projectName": "DSI_Hito5_Grupo10",
+        "projectPath": "E:\\DSI Hito 5\\DSI-Proyecto-Grupo10-2020\\DSI Hito5 Grupo 10\\DSI_Hito5_Grupo10.csproj",
+        "packagesPath": "C:\\Users\\pollo\\.nuget\\packages\\",
+        "outputPath": "E:\\DSI Hito 5\\DSI-Proyecto-Grupo10-2020\\DSI Hito5 Grupo 10\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pollo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.17763"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.17763": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.17763": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.2.9, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
