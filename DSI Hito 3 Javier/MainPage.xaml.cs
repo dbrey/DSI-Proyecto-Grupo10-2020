@@ -47,6 +47,11 @@ namespace DSI_Hito_3
             ToMapButton.Opacity = 0;
         }
 
+        private void ToPausa(object sender, RoutedEventArgs e)
+        {
+            this.Frame.Navigate(typeof(MenuPrincipal)); ;
+        }
+
         protected override void OnNavigatedFrom(NavigationEventArgs e)
         {
             base.OnNavigatedFrom(e);

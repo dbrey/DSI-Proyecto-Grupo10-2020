@@ -7,7 +7,7 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-    
+
     <!--La parte blanca representaría la vista en primera persona del juego-->
 
     <Grid x:ConnectionId='2'                   >
@@ -27,10 +27,13 @@
                                                    
                                                  />
 
+        <Button x:ConnectionId='6'                 Height="98" Margin="0,0,1374,531" Width="111" VerticalAlignment="Bottom" HorizontalAlignment="Right" >
+            <Image Source="Assets/Boton pausa.png" Grid.Row="4" Grid.ColumnSpan="4" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="0,-6,0,0"/>
+        </Button>
 
         <Canvas>
-            <Image x:ConnectionId='6' x:Name="GearLever" Source="Assets/ManualInt/Palanca.png" Canvas.Left="820" Canvas.Top="700"/>
-            <Image x:ConnectionId='7' x:Name="SpeedMarker" Source="Assets/ManualInt/aguja.png" Canvas.Left="-65.5" Canvas.Top="593.5" RenderTransformOrigin="0.516,0.815" UseLayoutRounding="False" d:LayoutRounding="Auto">
+            <Image x:ConnectionId='7' x:Name="GearLever" Source="Assets/ManualInt/Palanca.png" Canvas.Left="820" Canvas.Top="700"/>
+            <Image x:ConnectionId='8' x:Name="SpeedMarker" Source="Assets/ManualInt/aguja.png" Canvas.Left="-65.5" Canvas.Top="593.5" RenderTransformOrigin="0.516,0.815" UseLayoutRounding="False" d:LayoutRounding="Auto">
                 <Image.RenderTransform>
                     <RotateTransform Angle="-10"/>
                 </Image.RenderTransform>

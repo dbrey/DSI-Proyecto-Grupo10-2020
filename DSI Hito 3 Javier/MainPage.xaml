@@ -7,7 +7,7 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-    
+
     <!--La parte blanca representaría la vista en primera persona del juego-->
 
     <Grid KeyUp="Grid_KeyUp">
@@ -27,6 +27,9 @@
                 PointerEntered="ToMapButtonEntered"
                 PointerExited="ToMapButtonExited"/>
 
+        <Button Click="ToPausa" Height="70" Margin="0,0,1396,559" Width="89" VerticalAlignment="Bottom" HorizontalAlignment="Right" >
+            <Image Source="Assets/Boton pausa.png" Grid.Row="4" Grid.ColumnSpan="4" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="0,-3,0,0" Height="76" Width="111"/>
+        </Button>
 
         <Canvas>
             <Image x:Name="GearLever" Source="Assets/ManualInt/Palanca.png" Canvas.Left="820" Canvas.Top="700"/>

@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>JAVI-TORRE</Machine>
-    <WindowsUser>Javier</WindowsUser>
+    <Machine>DBREY-PORTATIL</Machine>
+    <WindowsUser>David</WindowsUser>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetOsVersion>10.0</TargetOsVersion>
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>ec97cfba-065a-4369-91eb-fa5a9846f659</PackageIdentityName>
     <PackageIdentityPublisher>CN=Javier</PackageIdentityPublisher>
-    <IntermediateOutputPath>E:\DSIHITO3\DSI Hito 3\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito 3 Javier\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>E:\DSIHITO3\DSI Hito 3\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito 3 Javier\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="E:\DSIHITO3\DSI Hito 3\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito 3 Javier\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="E:\DSIHITO3\DSI Hito 3\bin\x86\Debug\DSI Hito 3.exe">
+    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito 3 Javier\bin\x86\Debug\DSI Hito 3.exe">
       <PackagePath>entrypoint\DSI Hito 3.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.9\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
@@ -34,67 +34,82 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.18362.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\DSIHITO3\DSI Hito 3\Assets\ManualInt\aguja.png">
+    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito 3 Javier\Assets\Boton Pausa.png">
+      <PackagePath>Assets\Boton Pausa.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito 3 Javier\Assets\Engranaje.png">
+      <PackagePath>Assets\Engranaje.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito 3 Javier\Assets\Fondo_MenuPrincipal.png">
+      <PackagePath>Assets\Fondo_MenuPrincipal.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito 3 Javier\Assets\ManualInt\aguja.png">
       <PackagePath>Assets\ManualInt\aguja.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\DSIHITO3\DSI Hito 3\Assets\ManualInt\Cuadro.png">
+    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito 3 Javier\Assets\ManualInt\Cuadro.png">
       <PackagePath>Assets\ManualInt\Cuadro.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\DSIHITO3\DSI Hito 3\Assets\ManualInt\Palanca.png">
+    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito 3 Javier\Assets\ManualInt\Palanca.png">
       <PackagePath>Assets\ManualInt\Palanca.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\DSIHITO3\DSI Hito 3\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito 3 Javier\Assets\Titulo.png">
+      <PackagePath>Assets\Titulo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito 3 Javier\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\DSIHITO3\DSI Hito 3\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito 3 Javier\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\DSIHITO3\DSI Hito 3\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito 3 Javier\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\DSIHITO3\DSI Hito 3\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito 3 Javier\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\DSIHITO3\DSI Hito 3\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito 3 Javier\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\DSIHITO3\DSI Hito 3\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito 3 Javier\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\DSIHITO3\DSI Hito 3\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito 3 Javier\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\DSIHITO3\DSI Hito 3\Assets\ManualInt\street map.jpg">
+    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito 3 Javier\Assets\ManualInt\street map.jpg">
       <PackagePath>Assets\ManualInt\street map.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\DSIHITO3\DSI Hito 3\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito 3 Javier\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\DSIHITO3\DSI Hito 3\bin\x86\Debug\DSI Hito 3.xr.xml">
+    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito 3 Javier\bin\x86\Debug\DSI Hito 3.xr.xml">
       <PackagePath>DSI Hito 3.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\DSIHITO3\DSI Hito 3\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito 3 Javier\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\DSIHITO3\DSI Hito 3\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito 3 Javier\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\DSIHITO3\DSI Hito 3\bin\x86\Debug\Map.xbf">
+    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito 3 Javier\bin\x86\Debug\Map.xbf">
       <PackagePath>Map.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito 3 Javier\bin\x86\Debug\MenuPrincipal.xbf">
+      <PackagePath>MenuPrincipal.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\DSIHITO3\DSI Hito 3\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito 3 Javier\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\DSIHITO3\DSI Hito 3\bin\x86\Debug\Core\DSI Hito 3.exe">
+    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito 3 Javier\bin\x86\Debug\Core\DSI Hito 3.exe">
       <PackagePath>DSI Hito 3.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
@@ -149,33 +164,33 @@
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.27810.0</Version>
+      <Version>14.0.27323.0</Version>
       <Architecture>ARM</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27323.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
       <MoreInfo></MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.27810.0</Version>
+      <Version>14.0.27323.0</Version>
       <Architecture>ARM64</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27323.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
       <MoreInfo></MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.27810.0</Version>
+      <Version>14.0.27323.0</Version>
       <Architecture>x64</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27323.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
       <MoreInfo></MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.27810.0</Version>
+      <Version>14.0.27323.0</Version>
       <Architecture>x86</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27323.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
       <MoreInfo></MoreInfo>
     </ResolvedSDKReference>

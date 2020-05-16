@@ -1,4 +1,7 @@
 WinMetadata\Windows.winmd
+Assets\Boton Pausa.png
+Assets\Engranaje.png
+Assets\Fondo_MenuPrincipal.png
 Assets\LockScreenLogo.scale-200.png
 Assets\ManualInt\aguja.png
 Assets\ManualInt\Cuadro.png
@@ -9,9 +12,11 @@ Assets\Square150x150Logo.scale-200.png
 Assets\Square44x44Logo.scale-200.png
 Assets\Square44x44Logo.targetsize-24_altform-unplated.png
 Assets\StoreLogo.png
+Assets\Titulo.png
 Assets\Wide310x150Logo.scale-200.png
 App.xbf
 DSI Hito 3.xr.xml
 MainPage.xbf
 Map.xbf
+MenuPrincipal.xbf
 Properties\Default.rd.xml
