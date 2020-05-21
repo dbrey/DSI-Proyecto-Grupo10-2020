@@ -139,6 +139,9 @@
     <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Controles_Final 1.jpg">
       <PackagePath>Assets\Controles_Final 1.jpg</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Fondo_Pausa.jpg">
+      <PackagePath>Assets\Fondo_Pausa.jpg</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\ManualInt\street map.jpg">
       <PackagePath>Assets\ManualInt\street map.jpg</PackagePath>
     </AppxPackagedFile>
@@ -157,6 +160,9 @@
     <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\BlankPage1.xbf">
+      <PackagePath>BlankPage1.xbf</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\Controles.xbf">
       <PackagePath>Controles.xbf</PackagePath>
     </AppxPackagedFile>
@@ -171,6 +177,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\Opciones.xbf">
       <PackagePath>Opciones.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\Pausa.xbf">
+      <PackagePath>Pausa.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>

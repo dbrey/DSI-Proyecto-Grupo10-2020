@@ -21,15 +21,16 @@
         <StackPanel Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
             <Grid>
                 <Image Source="Assets/Fondo_Pausa.jpg" Stretch="Fill" Margin="0,0,-223,-143"/>
-                <InkCanvas x:Name="ink"></InkCanvas>
+                <InkCanvas x:ConnectionId='5' x:Name="ink"></InkCanvas>
             </Grid>
         </StackPanel>
 
         <Grid>
-            <Button Click="Volver" Foreground="Black" Background="Yellow" FontSize="150" Content="CONTINUAR" HorizontalAlignment="Center" Height="214" Width="905" Margin="0,61,0,0" VerticalAlignment="Top"/>
-            <Button Click="ToOpciones" Foreground="Black" Background="Yellow" FontSize="150" Content="OPCIONES" HorizontalAlignment="Center" Height="214" Width="755" Margin="0,374,0,0" VerticalAlignment="Top"/>
-            <Button Click ="ToMenu_Principal" Foreground="Black" Background="Yellow" FontSize="150" Content="SALIR" HorizontalAlignment="Center" Height="214" Width="475" Margin="0,686,0,0" VerticalAlignment="Top"/>
+            <Button x:ConnectionId='2'                Foreground="Black" Background="Yellow" FontSize="150" Content="CONTINUAR" HorizontalAlignment="Center" Height="214" Width="905" Margin="0,61,0,0" VerticalAlignment="Top"/>
+            <Button x:ConnectionId='3'                    Foreground="Black" Background="Yellow" FontSize="150" Content="OPCIONES" HorizontalAlignment="Center" Height="214" Width="755" Margin="0,374,0,0" VerticalAlignment="Top"/>
+            <Button x:ConnectionId='4'                           Foreground="Black" Background="Yellow" FontSize="150" Content="SALIR" HorizontalAlignment="Center" Height="214" Width="475" Margin="0,686,0,0" VerticalAlignment="Top"/>
 
         </Grid>
     </Grid>
 </Page>
+

@@ -5,6 +5,7 @@ Assets\Controles_Final 1.jpg
 Assets\Cpequeño.png
 Assets\Engranaje.png
 Assets\Fondo_MenuPrincipal.png
+Assets\Fondo_Pausa.jpg
 Assets\GamepadPanel.png
 Assets\LockScreenLogo.scale-200.png
 Assets\ManualInt\aguja.png
@@ -36,10 +37,12 @@ Assets\unnamed.png
 Assets\VehiculoEsp.png
 Assets\Wide310x150Logo.scale-200.png
 App.xbf
+BlankPage1.xbf
 Controles.xbf
 DSI Hito 3.xr.xml
 Interfaz1P.xbf
 Map.xbf
 MenuPrincipal.xbf
 Opciones.xbf
+Pausa.xbf
 Properties\Default.rd.xml
