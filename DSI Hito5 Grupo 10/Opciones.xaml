@@ -17,8 +17,8 @@
         <Button Content="+" x:Name="IncreaseVolumeButton" Margin="625,50,0,0" RenderTransformOrigin="0.5,0.5" Height="95" Width="95" FontWeight="Normal" FontSize="72" Foreground="White" Click="IncreaseVolumeButton_Click" Canvas.Left="530" Canvas.Top="54"/>
         <Button Content="-" x:Name="DecreaseVolumeButton" Margin="332,130,0,0" Foreground="White" Height="79" Width="82" FontWeight="Bold" FontSize="72" Click="DecreaseVolumeButton_Click" Canvas.Left="79" Canvas.Top="-8"/>
 
-        <Border x:Name="VolumeBar" Background="Red" Height="105" Width="605" MaxWidth="910" Canvas.Left="525" Canvas.Top="94"></Border>
-        <Border x:Name="BrightBar" Background="Red" Height="105" Width="605" MaxWidth="910" Canvas.Left="525" Canvas.Top="258"></Border>
+        <Border x:Name="VolumeBar" Background="Red" Height="105" Width="605" MaxWidth= "605" Canvas.Left="525" Canvas.Top="94"></Border>
+        <Border x:Name="BrightBar" Background="Red" Height="105" Width="605" MaxWidth= "605" Canvas.Left="525" Canvas.Top="258"></Border>
         <TextBlock Canvas.Left="120" Canvas.Top="126" Text="VOLUMEN" Foreground="White" TextWrapping="Wrap" Height="80" Width="232" FontSize="48"/>
         <TextBlock Canvas.Left="157" Canvas.Top="301" Text="BRILLO" Foreground="White" TextWrapping="Wrap" Height="80" Width="156" FontSize="48"/>
     </Canvas>
