@@ -210,3 +210,77 @@ C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grup
 C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\ProjectArchitectures.txt
 C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885274160000000.json
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\App.xbf
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\BlankPage1.xbf
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\Controles.xbf
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\Interfaz1P.xbf
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\Map.xbf
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\MenuPrincipal.xbf
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\Opciones.xbf
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\Pausa.xbf
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\DSI Hito 3.xr.xml
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\DSI Hito 3.exe
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\DSI Hito 3.pdb
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\resources.pri
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\AppxManifest.xml
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\Core\AppxManifest.xml
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\Core\DSI Hito 3.exe
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\DSI_Hito5_Grupo10.build.appxrecipe
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\System.Runtime.dll
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\DSI_Hito5_Grupo10.csprojAssemblyReference.cache
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\App.g.i.cs
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\App.g.cs
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\BlankPage1.g.i.cs
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\BlankPage1.g.cs
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\Controles.g.i.cs
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\Controles.g.cs
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\Interfaz1P.g.i.cs
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\Interfaz1P.g.cs
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\Map.g.i.cs
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\Map.g.cs
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\MenuPrincipal.g.i.cs
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\MenuPrincipal.g.cs
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\Opciones.g.i.cs
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\Opciones.g.cs
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\Pausa.g.i.cs
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\Pausa.g.cs
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\App.xaml
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\BlankPage1.xaml
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\Controles.xaml
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\Interfaz1P.xaml
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\MenuPrincipal.xaml
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\Opciones.xaml
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\Pausa.xaml
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\Map.xaml
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\App.xbf
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\BlankPage1.xbf
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\Controles.xbf
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\Interfaz1P.xbf
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\MenuPrincipal.xbf
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\Opciones.xbf
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\Pausa.xbf
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\Map.xbf
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\DSI_Hito5_Grupo10.csproj.CopyComplete
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\DSI Hito 3.exe
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\DSI Hito 3.pdb
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\ResourceHandlingTask.state
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\priconfig.xml
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\priconfig.xml.intermediate
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\filtered.layout.resfiles
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\excluded.layout.resfiles
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\resources.resfiles
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\resources.resfiles.intermediate
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\pri.resfiles
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\pri.resfiles.intermediate
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\qualifiers.txt
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\ProjectArchitectures.txt
+C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885274160000000.json

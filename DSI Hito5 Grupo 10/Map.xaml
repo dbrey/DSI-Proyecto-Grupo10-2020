@@ -46,8 +46,11 @@
 
 
                 <Image x:Name="CocheEsp" Source="Assets/VehiculoESp.png" PointerEntered="PointerEntered" PointerExited="PointerExited" Canvas.Left="697" Canvas.Top="642" Height="92" Width="123" />
-                <AppBarButton x:Name="Pause" Icon="Pause" Height="43" Width="53" ></AppBarButton>
 
+                <Button x:Name="link1p" PointerEntered="PointerEntered" PointerExited="PointerExited" Canvas.Left="697" Canvas.Top="642" Height="92" Width="123" Click="To1P" />
+                <Button Click="ToPausa" Height="70" Margin="0,0,1396,559" Width="89" VerticalAlignment="Bottom" HorizontalAlignment="Right" >
+                    <Image Source="Assets/PauseButton.png" Grid.Row="4" Grid.ColumnSpan="4" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="0,-3,0,0" Height="57" Width="68"/>
+                </Button>
             </Canvas>
 
         </ScrollViewer>

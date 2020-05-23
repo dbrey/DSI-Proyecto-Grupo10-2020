@@ -63,9 +63,13 @@ namespace DSI_Hito5_Grupo10
 
             
         }
-        private void itemClicked(object sender, PointerRoutedEventArgs e)
+        private void To1P(object sender, RoutedEventArgs e)
         {
-
+            this.Frame.Navigate(typeof(Interfaz1p));
+        }
+        private void ToPausa(object sender, RoutedEventArgs e)
+        {
+            this.Frame.Navigate(typeof(Pausa));
         }
     }
 }

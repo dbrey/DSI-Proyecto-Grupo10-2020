@@ -93,11 +93,6 @@
     <RootType FullName="Windows.UI.Xaml.Controls.ScrollViewer">
       <RootProperty Name="Content" />
     </RootType>
-    <RootType FullName="Windows.UI.Xaml.Controls.AppBarButton">
-      <RootProperty Name="Icon" />
-      <RootProperty Name="Height" />
-      <RootProperty Name="Width" />
-    </RootType>
     <RootType FullName="DSI_Hito5_Grupo10.Map" />
     <RootType FullName="Windows.UI.Xaml.Controls.StackPanel">
       <RootProperty Name="VerticalAlignment" />
