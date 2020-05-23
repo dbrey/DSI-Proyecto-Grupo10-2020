@@ -63,14 +63,14 @@ namespace DSI_Hito5_Grupo10
 
         private void IncreaseBrightButton_Click(object sender, RoutedEventArgs e)
         {
-            if (BrightBar.Width < Bars.Width)
-                BrightBar.Width += Bars.Width / 10;
+            if (BrightBar.Width < BrightBar.MaxWidth)
+                BrightBar.Width += BrightBar.MaxWidth / 10;
         }
 
         private void DecreaseBrightButton_Click(object sender, RoutedEventArgs e)
         {
             if (BrightBar.Width > 0)
-                BrightBar.Width -= Bars.Width / 10;
+                BrightBar.Width -= BrightBar.MaxWidth / 10;
         }
         private void BackInvoked(KeyboardAccelerator sender, KeyboardAcceleratorInvokedEventArgs args)
         {
@@ -80,14 +80,14 @@ namespace DSI_Hito5_Grupo10
 
         private void IncreaseVolumeButton_Click(object sender, RoutedEventArgs e)
         {
-            if (VolumeBar.Width < Bars.Width)
-                VolumeBar.Width += Bars.Width / 10;
+            if (VolumeBar.Width < VolumeBar.MaxWidth)
+                VolumeBar.Width += VolumeBar.MaxWidth / 10;
         }
 
         private void DecreaseVolumeButton_Click(object sender, RoutedEventArgs e)
         {
             if (VolumeBar.Width > 0)
-                VolumeBar.MaxWidth -= Bars.Width / 10;
+                VolumeBar.Width -= VolumeBar.MaxWidth / 10;
         }
     }
 }

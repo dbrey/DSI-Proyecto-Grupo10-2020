@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>DBREY-PORTATIL</Machine>
-    <WindowsUser>David</WindowsUser>
+    <Machine>DESKTOP-7VVQB96</Machine>
+    <WindowsUser>Jesús</WindowsUser>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetOsVersion>10.0</TargetOsVersion>
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>ec97cfba-065a-4369-91eb-fa5a9846f659</PackageIdentityName>
     <PackageIdentityPublisher>CN=Javier</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,8 +18,8 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>CCA8E5E31BF37E319B7425CEEDFD7C624734FE7477AB8955614D659800D98733</RegisteredManifestChecksum>
+    <LayoutDir>C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>66B2A37A7858F82F7486801AE208FFBC1905D521709CF12989C360E3069C449A</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>ec97cfba-065a-4369-91eb-fa5a9846f659_1.0.0.0_x86__j6j5z4mnvcpja</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>ec97cfba-065a-4369-91eb-fa5a9846f659_j6j5z4mnvcpja!App</RegisteredUserModeAppID>
     <RegisteredPackageID>ec97cfba-065a-4369-91eb-fa5a9846f659</RegisteredPackageID>
@@ -27,16 +27,16 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-05-21T13:15:31.746</Modified>
+      <Modified>2020-05-23T12:28:01.036</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\DSI Hito 3.exe">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\DSI Hito 3.exe">
       <PackagePath>entrypoint\DSI Hito 3.exe</PackagePath>
-      <Modified>2020-05-21T13:15:05.579</Modified>
+      <Modified>2020-05-23T12:28:00.403</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.9\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -46,211 +46,223 @@
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
       <Modified>2019-03-18T17:36:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Boton Pausa.png">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Boton Pausa.png">
       <PackagePath>Assets\Boton Pausa.png</PackagePath>
-      <Modified>2020-05-16T15:27:49.203</Modified>
+      <Modified>2020-05-23T11:21:14.678</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Cgrande.png">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Cgrande.png">
       <PackagePath>Assets\Cgrande.png</PackagePath>
-      <Modified>2020-05-16T15:27:49.204</Modified>
+      <Modified>2020-05-23T11:21:14.678</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Cpequeño.png">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Cpequeño.png">
       <PackagePath>Assets\Cpequeño.png</PackagePath>
-      <Modified>2020-05-16T15:27:49.236</Modified>
+      <Modified>2020-05-23T11:21:14.693</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Engranaje.png">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Engranaje.png">
       <PackagePath>Assets\Engranaje.png</PackagePath>
-      <Modified>2020-05-16T15:27:49.292</Modified>
+      <Modified>2020-05-23T11:21:14.693</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Fondo_MenuPrincipal.png">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Fondo_MenuPrincipal.png">
       <PackagePath>Assets\Fondo_MenuPrincipal.png</PackagePath>
-      <Modified>2020-05-16T15:27:49.294</Modified>
+      <Modified>2020-05-23T11:21:14.693</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\GamepadPanel.png">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Fondo_Opciones.png">
+      <PackagePath>Assets\Fondo_Opciones.png</PackagePath>
+      <Modified>2020-05-23T11:30:43.616</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\GamepadPanel.png">
       <PackagePath>Assets\GamepadPanel.png</PackagePath>
-      <Modified>2020-05-16T15:27:49.295</Modified>
+      <Modified>2020-05-23T11:21:14.693</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\ManualInt\aguja.png">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\ManualInt\aguja.png">
       <PackagePath>Assets\ManualInt\aguja.png</PackagePath>
-      <Modified>2020-05-16T15:27:49.415</Modified>
+      <Modified>2020-05-23T11:21:14.709</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\ManualInt\Cuadro.png">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\ManualInt\Cuadro.png">
       <PackagePath>Assets\ManualInt\Cuadro.png</PackagePath>
-      <Modified>2020-05-16T15:27:49.346</Modified>
+      <Modified>2020-05-23T11:21:14.693</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\ManualInt\Palanca.png">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\ManualInt\Palanca.png">
       <PackagePath>Assets\ManualInt\Palanca.png</PackagePath>
-      <Modified>2020-05-16T15:27:49.390</Modified>
+      <Modified>2020-05-23T11:21:14.709</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Menus\Botón Volver.png">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Menus\Botón Volver.png">
       <PackagePath>Assets\Menus\Botón Volver.png</PackagePath>
-      <Modified>2020-05-16T15:27:49.448</Modified>
+      <Modified>2020-05-23T11:21:14.725</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Menus\GamepadPanel.png">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Menus\GamepadPanel.png">
       <PackagePath>Assets\Menus\GamepadPanel.png</PackagePath>
-      <Modified>2020-05-16T15:27:49.469</Modified>
+      <Modified>2020-05-23T11:21:14.725</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Menus\Menu_Principal.png">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Menus\Menu_Principal.png">
       <PackagePath>Assets\Menus\Menu_Principal.png</PackagePath>
-      <Modified>2020-05-16T15:27:49.474</Modified>
+      <Modified>2020-05-23T11:21:14.725</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Menus\Opciones.png">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Menus\Opciones.png">
       <PackagePath>Assets\Menus\Opciones.png</PackagePath>
-      <Modified>2020-05-16T15:27:49.477</Modified>
+      <Modified>2020-05-23T11:21:14.740</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Menus\PanelControles.png">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Menus\PanelControles.png">
       <PackagePath>Assets\Menus\PanelControles.png</PackagePath>
-      <Modified>2020-05-16T15:27:49.480</Modified>
+      <Modified>2020-05-23T11:21:14.740</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Menus\PC.png">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Menus\PC.png">
       <PackagePath>Assets\Menus\PC.png</PackagePath>
-      <Modified>2020-05-16T15:27:49.478</Modified>
+      <Modified>2020-05-23T11:21:14.740</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Menus\thumb-1920-245473.png">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Menus\thumb-1920-245473.png">
       <PackagePath>Assets\Menus\thumb-1920-245473.png</PackagePath>
-      <Modified>2020-05-16T15:27:49.486</Modified>
+      <Modified>2020-05-23T11:21:14.740</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Menus\unnamed.png">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Menus\unnamed.png">
       <PackagePath>Assets\Menus\unnamed.png</PackagePath>
-      <Modified>2020-05-16T15:27:49.489</Modified>
+      <Modified>2020-05-23T11:21:14.740</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Menu_Principal.png">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Menu_Principal.png">
       <PackagePath>Assets\Menu_Principal.png</PackagePath>
-      <Modified>2020-05-16T15:27:49.446</Modified>
+      <Modified>2020-05-23T11:21:14.725</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Opciones.png">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Opciones.png">
       <PackagePath>Assets\Opciones.png</PackagePath>
-      <Modified>2020-05-16T15:27:49.494</Modified>
+      <Modified>2020-05-23T11:21:14.740</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\PanelControles.png">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\PanelControles.png">
       <PackagePath>Assets\PanelControles.png</PackagePath>
-      <Modified>2020-05-16T15:27:49.496</Modified>
+      <Modified>2020-05-23T11:21:14.756</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\PC.png">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\PC.png">
       <PackagePath>Assets\PC.png</PackagePath>
-      <Modified>2020-05-16T15:27:49.495</Modified>
+      <Modified>2020-05-23T11:21:14.756</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\thumb-1920-245473.png">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\thumb-1920-245473.png">
       <PackagePath>Assets\thumb-1920-245473.png</PackagePath>
-      <Modified>2020-05-16T15:27:49.530</Modified>
+      <Modified>2020-05-23T11:21:14.772</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Titulo.png">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Titulo.png">
       <PackagePath>Assets\Titulo.png</PackagePath>
-      <Modified>2020-05-16T15:27:49.523</Modified>
+      <Modified>2020-05-23T11:21:14.756</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\unnamed.png">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\unnamed.png">
       <PackagePath>Assets\unnamed.png</PackagePath>
-      <Modified>2020-05-16T15:27:49.535</Modified>
+      <Modified>2020-05-23T11:21:14.772</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\VehiculoEsp.png">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\VehiculoEsp.png">
       <PackagePath>Assets\VehiculoEsp.png</PackagePath>
-      <Modified>2020-05-16T15:27:49.525</Modified>
+      <Modified>2020-05-23T11:21:14.756</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2020-05-16T15:27:49.296</Modified>
+      <Modified>2020-05-23T11:21:14.693</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-05-16T15:27:49.499</Modified>
+      <Modified>2020-05-23T11:21:14.756</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-05-16T15:27:49.501</Modified>
+      <Modified>2020-05-23T11:21:14.756</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-05-16T15:27:49.502</Modified>
+      <Modified>2020-05-23T11:21:14.756</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-05-16T15:27:49.503</Modified>
+      <Modified>2020-05-23T11:21:14.756</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-05-16T15:27:49.521</Modified>
+      <Modified>2020-05-23T11:21:14.756</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-05-16T15:27:49.527</Modified>
+      <Modified>2020-05-23T11:21:14.772</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Controles_Final 1.jpg">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Controles_Final 1.jpg">
       <PackagePath>Assets\Controles_Final 1.jpg</PackagePath>
-      <Modified>2020-05-16T15:27:49.212</Modified>
+      <Modified>2020-05-23T11:21:14.678</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Fondo_Pausa.jpg">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Controles_Final 2.jpg">
+      <PackagePath>Assets\Controles_Final 2.jpg</PackagePath>
+      <Modified>2020-05-23T12:27:48.139</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Fondo_Pausa.jpg">
       <PackagePath>Assets\Fondo_Pausa.jpg</PackagePath>
-      <Modified>2020-05-21T09:55:43.919</Modified>
+      <Modified>2020-05-23T11:21:14.693</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\ManualInt\street map.jpg">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\ManualInt\street map.jpg">
       <PackagePath>Assets\ManualInt\street map.jpg</PackagePath>
-      <Modified>2020-05-16T15:27:49.439</Modified>
+      <Modified>2020-05-23T11:21:14.709</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Mapa.jpg">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Mapa.jpg">
       <PackagePath>Assets\Mapa.jpg</PackagePath>
-      <Modified>2020-05-16T15:27:49.441</Modified>
+      <Modified>2020-05-23T11:21:14.709</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Menus\Controles_Final 1.jpg">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Menus\Controles_Final 1.jpg">
       <PackagePath>Assets\Menus\Controles_Final 1.jpg</PackagePath>
-      <Modified>2020-05-16T15:27:49.458</Modified>
+      <Modified>2020-05-23T11:21:14.725</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Controles_Final 2.jpg">
+      <PackagePath>Controles_Final 2.jpg</PackagePath>
+      <Modified>2020-05-23T12:27:03.226</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2020-05-16T15:27:49.555</Modified>
+      <Modified>2020-05-23T11:21:14.787</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\DSI Hito 3.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\DSI Hito 3.xr.xml">
       <PackagePath>DSI Hito 3.xr.xml</PackagePath>
-      <Modified>2020-05-21T13:15:04.172</Modified>
+      <Modified>2020-05-23T12:22:22.159</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-05-21T13:15:04.431</Modified>
+      <Modified>2020-05-23T12:28:00.162</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\BlankPage1.xbf">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\BlankPage1.xbf">
       <PackagePath>BlankPage1.xbf</PackagePath>
-      <Modified>2020-05-21T13:15:04.435</Modified>
+      <Modified>2020-05-23T12:28:00.162</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\Controles.xbf">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\Controles.xbf">
       <PackagePath>Controles.xbf</PackagePath>
-      <Modified>2020-05-21T13:15:04.435</Modified>
+      <Modified>2020-05-23T12:28:00.162</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\Interfaz1P.xbf">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\Interfaz1P.xbf">
       <PackagePath>Interfaz1P.xbf</PackagePath>
-      <Modified>2020-05-21T13:15:04.436</Modified>
+      <Modified>2020-05-23T12:28:00.163</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\Map.xbf">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\Map.xbf">
       <PackagePath>Map.xbf</PackagePath>
-      <Modified>2020-05-21T13:15:04.453</Modified>
+      <Modified>2020-05-23T12:28:00.163</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\MenuPrincipal.xbf">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\MenuPrincipal.xbf">
       <PackagePath>MenuPrincipal.xbf</PackagePath>
-      <Modified>2020-05-21T13:15:04.454</Modified>
+      <Modified>2020-05-23T12:28:00.163</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\Opciones.xbf">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\Opciones.xbf">
       <PackagePath>Opciones.xbf</PackagePath>
-      <Modified>2020-05-21T13:15:04.457</Modified>
+      <Modified>2020-05-23T12:28:00.163</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\Pausa.xbf">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\Pausa.xbf">
       <PackagePath>Pausa.xbf</PackagePath>
-      <Modified>2020-05-21T13:15:04.458</Modified>
+      <Modified>2020-05-23T12:28:00.163</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2019-03-18T16:33:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2020-05-21T13:15:08.413</Modified>
+      <Modified>2020-05-23T12:28:00.539</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\Desktop\DSI 2020\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\Core\DSI Hito 3.exe">
+    <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\Core\DSI Hito 3.exe">
       <PackagePath>DSI Hito 3.exe</PackagePath>
-      <Modified>2020-05-21T13:15:31.720</Modified>
+      <Modified>2020-05-23T12:28:01.030</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

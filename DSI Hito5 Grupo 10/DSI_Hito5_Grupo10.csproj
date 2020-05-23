@@ -151,9 +151,11 @@
     <Content Include="Assets\Boton Pausa.png" />
     <Content Include="Assets\Cgrande.png" />
     <Content Include="Assets\Controles_Final 1.jpg" />
+    <Content Include="Assets\Controles_Final 2.jpg" />
     <Content Include="Assets\Cpequeño.png" />
     <Content Include="Assets\Engranaje.png" />
     <Content Include="Assets\Fondo_MenuPrincipal.png" />
+    <Content Include="Assets\Fondo_Opciones.png" />
     <Content Include="Assets\Fondo_Pausa.jpg" />
     <Content Include="Assets\GamepadPanel.png" />
     <Content Include="Assets\ManualInt\aguja.png" />
@@ -178,6 +180,7 @@
     <Content Include="Assets\Titulo.png" />
     <Content Include="Assets\unnamed.png" />
     <Content Include="Assets\VehiculoEsp.png" />
+    <Content Include="Controles_Final 2.jpg" />
     <Content Include="Properties\Default.rd.xml" />
     <Content Include="Assets\LockScreenLogo.scale-200.png" />
     <Content Include="Assets\SplashScreen.scale-200.png" />

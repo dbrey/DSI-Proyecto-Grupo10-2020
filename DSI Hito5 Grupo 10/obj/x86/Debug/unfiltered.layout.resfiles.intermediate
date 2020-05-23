@@ -2,9 +2,11 @@ WinMetadata\Windows.winmd
 Assets\Boton Pausa.png
 Assets\Cgrande.png
 Assets\Controles_Final 1.jpg
+Assets\Controles_Final 2.jpg
 Assets\Cpequeño.png
 Assets\Engranaje.png
 Assets\Fondo_MenuPrincipal.png
+Assets\Fondo_Opciones.png
 Assets\Fondo_Pausa.jpg
 Assets\GamepadPanel.png
 Assets\LockScreenLogo.scale-200.png
@@ -45,4 +47,5 @@ Map.xbf
 MenuPrincipal.xbf
 Opciones.xbf
 Pausa.xbf
+Controles_Final 2.jpg
 Properties\Default.rd.xml

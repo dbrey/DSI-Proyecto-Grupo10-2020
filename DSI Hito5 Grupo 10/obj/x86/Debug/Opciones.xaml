@@ -6,29 +6,21 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d"
-    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-    <Canvas>
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Height="725" Width="1295">
+    <Canvas Margin="0,0,10,0">
 
-        <Image Source="Assets/Opciones.png" Margin="0,0,-4,0" Height="725" Width="1289"></Image>
-        <Button x:ConnectionId='2' x:Name="BackButton" Content="VOLVER"                           Background="Red" Height="120" Margin="10,605,0,0" VerticalAlignment="Top" Width="160" FontSize="30" FontWeight="Bold" RequestedTheme="Default">
+        <Image Source="Assets/Fondo_Opciones.png" Margin="0,0,-4,0" Height="725" Width="1283" Canvas.Left="4"></Image>
+        <Button x:ConnectionId='2' x:Name="BackButton" Content="VOLVER"                           Background="Red" Height="120" Margin="10,605,0,0" Width="220" FontSize="48" FontWeight="Bold" RequestedTheme="Default" RenderTransformOrigin="0.348,0.011"/>
+        <Button x:ConnectionId='3' Content="CONTROLES" Background="Green" Margin="320,445,0,0"                              Height="107" Width="768" FontSize="72" FontWeight="Bold" Canvas.Left="68" Canvas.Top="-48"/>
+        <Button x:ConnectionId='4' Content="+" Name="IncreaseBrightButton" Margin="625,204,0,0" RenderTransformOrigin="0.323,-0.156" Height="98" Width="95" FontWeight="Normal" FontSize="72" Foreground="White"                                    Canvas.Left="525" Canvas.Top="60"/>
+        <Button x:ConnectionId='5' Content="-" Name="DecreaseBrightButton" Margin="325,244,0,0" Foreground="White" Height="93" Width="74" FontWeight="Bold" FontSize="72"                                    Canvas.Left="83" Canvas.Top="25"/>
+        <Button x:ConnectionId='6' Content="+" x:Name="IncreaseVolumeButton" Margin="625,50,0,0" RenderTransformOrigin="0.5,0.5" Height="95" Width="95" FontWeight="Normal" FontSize="72" Foreground="White"                                    Canvas.Left="530" Canvas.Top="54"/>
+        <Button x:ConnectionId='7' Content="-" x:Name="DecreaseVolumeButton" Margin="332,130,0,0" Foreground="White" Height="79" Width="82" FontWeight="Bold" FontSize="72"                                    Canvas.Left="79" Canvas.Top="-8"/>
 
-        </Button>
-        <Button x:ConnectionId='3' Content="CONTROLES" Background="Green" Margin="320,445,0,0"                              VerticalAlignment="Top" Height="115" Width="645" FontSize="72" FontWeight="Bold"/>
-        <Button x:ConnectionId='4' Content="+" Name="IncreaseBrightButton" Margin="1060,265,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.323,-0.156" Height="98" Width="95" FontWeight="Normal" FontSize="72" Foreground="White"                                   />
-        <Button x:ConnectionId='5' Content="-" Name="DecreaseBrightButton" Margin="325,284,0,0" VerticalAlignment="Top" Foreground="White" Height="79" Width="82" FontWeight="Bold" FontSize="72"                                   />
-        <Button x:ConnectionId='6' Content="+" x:Name="IncreaseVolumeButton" Margin="1060,93,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.323,-0.156" Height="95" Width="95" FontWeight="Normal" FontSize="72" Foreground="White"                                   />
-        <Button x:ConnectionId='7' Content="-" x:Name="DecreaseVolumeButton" Margin="332,109,0,0" VerticalAlignment="Top" Foreground="White" Height="79" Width="82" FontWeight="Bold" FontSize="72"                                   />
-
-        <Grid x:ConnectionId='8' Height="270" x:Name="Bars" Width="576" Canvas.Top="93" Canvas.Left="419">
-            <Grid.RowDefinitions>
-                <RowDefinition Height="3*"></RowDefinition>
-                <RowDefinition Height="3*"></RowDefinition>
-                <RowDefinition Height="3*"></RowDefinition>
-            </Grid.RowDefinitions>
-            <Border x:ConnectionId='9' x:Name="VolumeBar" Background="Red"></Border>
-            <Border x:ConnectionId='10' x:Name="BrightBar" Background="Red" Grid.Row="2"></Border>
-        </Grid>
-
+        <Border x:ConnectionId='8' x:Name="VolumeBar" Background="Red" Height="105" Width="605" MaxWidth="910" Canvas.Left="525" Canvas.Top="94"></Border>
+        <Border x:ConnectionId='9' x:Name="BrightBar" Background="Red" Height="105" Width="605" MaxWidth="910" Canvas.Left="525" Canvas.Top="258"></Border>
+        <TextBlock Canvas.Left="120" Canvas.Top="126" Text="VOLUMEN" Foreground="White" TextWrapping="Wrap" Height="80" Width="232" FontSize="48"/>
+        <TextBlock Canvas.Left="157" Canvas.Top="301" Text="BRILLO" Foreground="White" TextWrapping="Wrap" Height="80" Width="156" FontSize="48"/>
     </Canvas>
 </Page>
 
