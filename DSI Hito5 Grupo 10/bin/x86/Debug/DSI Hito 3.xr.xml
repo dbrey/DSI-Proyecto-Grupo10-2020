@@ -69,7 +69,6 @@
       <RootProperty Name="Opacity" />
       <RootProperty Name="Foreground" />
       <RootProperty Name="RequestedTheme" />
-      <RootProperty Name="Name" />
       <RootEvent Name="Click" />
       <RootEvent Name="PointerEntered" />
       <RootEvent Name="PointerExited" />

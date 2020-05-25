@@ -1,1 +1,1 @@
-C:\Datos G FM\Universidad\DSI\hitoFinal\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\DSI_Hito5_Grupo10.csproj;x86
+C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\DSI_Hito5_Grupo10.csproj;x86
