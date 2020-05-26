@@ -9,7 +9,7 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Height="1080" Width="1920">
     <Canvas>
 
-        <Image Name="Background" Source="Assets/Controles_Final 2.jpg" Margin="0,-65,0,-65" Height="1080" Canvas.Top="60" Width="1920"></Image>
+        <Image Name="Background" Source="Assets/Controles.JPG" Margin="0,-65,0,-65" Height="1080" Canvas.Top="60" Width="1920"></Image>
         <Button Content="VOLVER" Click="BackButton_Click" Background="Red" x:Name="VOLVER_" Height="124" Margin="157,10,0,0" Width="210" FontSize="48" FontWeight="Bold" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto" Canvas.Left="1539.83" Canvas.Top="5.505">
             <Button.RenderTransform>
                 <CompositeTransform SkewY="0.61" TranslateY="1.489" Rotation="-0.451"/>

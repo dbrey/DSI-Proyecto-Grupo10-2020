@@ -150,6 +150,7 @@
   <ItemGroup>
     <Content Include="Assets\Boton Pausa.png" />
     <Content Include="Assets\Cgrande.png" />
+    <Content Include="Assets\Controles.JPG" />
     <Content Include="Assets\Controles_Final 1.jpg" />
     <Content Include="Assets\Controles_Final 2.jpg" />
     <Content Include="Assets\Cpequeño.png" />
