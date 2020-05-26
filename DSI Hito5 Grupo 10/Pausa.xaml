@@ -9,13 +9,6 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="1275"/>
-        </Grid.ColumnDefinitions>
-        <Grid.RowDefinitions>
-            <RowDefinition Height="900"/>
-        </Grid.RowDefinitions>
-
         <StackPanel Opacity="0"  Background="Black"/>
 
         <StackPanel Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">

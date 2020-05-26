@@ -8,29 +8,22 @@
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
-    <Grid Margin="0,0,10,10">
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="1275"/>
-        </Grid.ColumnDefinitions>
-        <Grid.RowDefinitions>
-            <RowDefinition Height="900"/>
-        </Grid.RowDefinitions>
-
-        <StackPanel Grid.Row="4" Grid.ColumnSpan="4" VerticalAlignment="Center" HorizontalAlignment="Center" Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Grid>
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
             <Grid>
                 <Image Source="Assets/Fondo_MenuPrincipal.png" Stretch="UniformToFill" Margin="0,0,0,-97"/>
                 <InkCanvas x:Name="ink"></InkCanvas>
             </Grid>
         </StackPanel>
-        <Grid Margin="0,0,-30,0">
-            <Button Click="ToGame" Foreground="Black" Background="Yellow" FontSize="150" Content="¡JUGAR!" HorizontalAlignment="Center" Height="199" Width="675" Margin="0,411,0,0" VerticalAlignment="Top"/>
+        <Grid>
+            <Button Click="ToGame" Foreground="Black" Background="Yellow" FontSize="150" Content="¡JUGAR!" HorizontalAlignment="Center" Height="199" Width="675" Margin="0,485,0,0" VerticalAlignment="Top"/>
 
             <Button Click="ToOpciones" Height="142" Margin="0,0,10,106" Width="252" VerticalAlignment="Bottom" HorizontalAlignment="Right" >
                 <Image Source="Assets/Engranaje.png" Grid.Row="4" Grid.ColumnSpan="4" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="0,-6,0,0"/>
             </Button>
 
-            <Grid Grid.Row="4" Grid.ColumnSpan="4" VerticalAlignment="Stretch" HorizontalAlignment="Center">
-                <Image Source="Assets/Titulo.png" Margin="0,-237,0,381" Stretch ="Uniform" />
+            <Grid VerticalAlignment="Stretch" HorizontalAlignment="Center">
+                <Image Source="Assets/Titulo.png" Margin="0,-237,0,381" Stretch ="Uniform"/>
             </Grid>
         </Grid>
     </Grid>
