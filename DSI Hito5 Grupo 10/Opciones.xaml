@@ -12,10 +12,10 @@
         <Image Source="Assets/Fondo_Opciones.png" Margin="0,0,-4,0" Height="725" Width="1283" Canvas.Left="4"></Image>
         <Button x:Name="BackButton" Content="VOLVER"  Click="BackButton_Click" Background="Red" Height="120" Margin="10,605,0,0" Width="220" FontSize="48" FontWeight="Bold" RequestedTheme="Default" RenderTransformOrigin="0.348,0.011"/>
         <Button Content="CONTROLES" Background="Green" Margin="320,445,0,0" Click="ControlsButton_Click" Height="107" Width="768" FontSize="72" FontWeight="Bold" Canvas.Left="68" Canvas.Top="-48"/>
-        <Button x:Name="IncreaseBrightButton" Margin="625,204,0,0" RenderTransformOrigin="0.323,-0.156" Height="98" Width="95" FontWeight="Normal" FontSize="72" Foreground="White" Click="IncreaseBrightButton_Click" Canvas.Left="525" Canvas.Top="60"/>
-        <Button x:Name="DecreaseBrightButton" Margin="325,244,0,0" Foreground="White" Height="93" Width="74" FontWeight="Bold" FontSize="72" Click="DecreaseBrightButton_Click" Canvas.Left="83" Canvas.Top="25"/>
-        <Button x:Name="IncreaseVolumeButton" Margin="625,50,0,0" RenderTransformOrigin="0.5,0.5" Height="95" Width="95" FontWeight="Normal" FontSize="72" Foreground="White" Click="IncreaseVolumeButton_Click" Canvas.Left="530" Canvas.Top="54"/>
-        <Button x:Name="DecreaseVolumeButton" Margin="332,130,0,0" Foreground="White" Height="79" Width="82" FontWeight="Bold" FontSize="72" Click="DecreaseVolumeButton_Click" Canvas.Left="79" Canvas.Top="-8"/>
+        <Button Content="+" x:Name="IncreaseBrightButton" Margin="625,204,0,0" RenderTransformOrigin="0.323,-0.156" Height="98" Width="95" FontWeight="Normal" FontSize="72" Foreground="White" Click="IncreaseBrightButton_Click" Canvas.Left="525" Canvas.Top="60"/>
+        <Button Content="-" x:Name="DecreaseBrightButton" Margin="325,244,0,0" Foreground="White" Height="93" Width="74" FontWeight="Bold" FontSize="72" Click="DecreaseBrightButton_Click" Canvas.Left="83" Canvas.Top="25"/>
+        <Button Content="+" x:Name="IncreaseVolumeButton" Margin="625,50,0,0" RenderTransformOrigin="0.5,0.5" Height="95" Width="95" FontWeight="Normal" FontSize="72" Foreground="White" Click="IncreaseVolumeButton_Click" Canvas.Left="530" Canvas.Top="54"/>
+        <Button Content="-" x:Name="DecreaseVolumeButton" Margin="332,130,0,0" Foreground="White" Height="79" Width="82" FontWeight="Bold" FontSize="72" Click="DecreaseVolumeButton_Click" Canvas.Left="79" Canvas.Top="-8"/>
 
         <Border x:Name="VolumeBar" Background="Red" Height="105" Width="605" MaxWidth= "605" Canvas.Left="525" Canvas.Top="94"></Border>
         <Border x:Name="BrightBar" Background="Red" Height="105" Width="605" MaxWidth= "605" Canvas.Left="525" Canvas.Top="258"></Border>
