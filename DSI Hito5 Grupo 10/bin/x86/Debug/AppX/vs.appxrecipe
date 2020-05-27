@@ -30,7 +30,7 @@
     <AppXManifest Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-05-26T18:54:31.587</Modified>
+      <Modified>2020-05-27T15:50:58.403</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -190,7 +190,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Controles.JPG">
       <PackagePath>Assets\Controles.JPG</PackagePath>
-      <Modified>2020-05-26T18:51:58.594</Modified>
+      <Modified>2020-05-27T15:43:02.466</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\Assets\Controles_Final 1.jpg">
       <PackagePath>Assets\Controles_Final 1.jpg</PackagePath>
@@ -230,35 +230,35 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-05-26T18:54:16.129</Modified>
+      <Modified>2020-05-27T15:50:57.072</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\BlankPage1.xbf">
       <PackagePath>BlankPage1.xbf</PackagePath>
-      <Modified>2020-05-26T18:54:16.129</Modified>
+      <Modified>2020-05-27T15:50:57.072</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\Controles.xbf">
       <PackagePath>Controles.xbf</PackagePath>
-      <Modified>2020-05-26T18:54:16.129</Modified>
+      <Modified>2020-05-27T15:50:57.072</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\Interfaz1P.xbf">
       <PackagePath>Interfaz1P.xbf</PackagePath>
-      <Modified>2020-05-26T18:54:16.129</Modified>
+      <Modified>2020-05-27T15:50:57.072</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\Map.xbf">
       <PackagePath>Map.xbf</PackagePath>
-      <Modified>2020-05-26T18:54:16.123</Modified>
+      <Modified>2020-05-27T15:50:57.066</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\MenuPrincipal.xbf">
       <PackagePath>MenuPrincipal.xbf</PackagePath>
-      <Modified>2020-05-26T18:54:16.130</Modified>
+      <Modified>2020-05-27T15:50:57.072</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\Opciones.xbf">
       <PackagePath>Opciones.xbf</PackagePath>
-      <Modified>2020-05-26T18:54:16.130</Modified>
+      <Modified>2020-05-27T15:50:57.072</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\Pausa.xbf">
       <PackagePath>Pausa.xbf</PackagePath>
-      <Modified>2020-05-26T18:54:16.130</Modified>
+      <Modified>2020-05-27T15:50:57.074</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -270,7 +270,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jesús\Desktop\Universidad\DSI\DSI-Proyecto-Grupo10-2020\DSI Hito5 Grupo 10\bin\x86\Debug\Core\DSI Hito 3.exe">
       <PackagePath>DSI Hito 3.exe</PackagePath>
-      <Modified>2020-05-26T18:54:31.546</Modified>
+      <Modified>2020-05-27T15:50:58.368</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
