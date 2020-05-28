@@ -49,7 +49,7 @@ namespace DSI_Hito5_Grupo10
 
         private void ToPausa(object sender, RoutedEventArgs e)
         {
-            this.Frame.Navigate(typeof(MenuPrincipal)); ;
+            this.Frame.Navigate(typeof(Pausa)); ;
         }
 
         protected override void OnNavigatedFrom(NavigationEventArgs e)
