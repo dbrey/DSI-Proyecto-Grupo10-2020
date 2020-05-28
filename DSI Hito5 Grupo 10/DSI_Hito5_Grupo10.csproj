@@ -119,9 +119,6 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
-    <Compile Include="BlankPage1.xaml.cs">
-      <DependentUpon>BlankPage1.xaml</DependentUpon>
-    </Compile>
     <Compile Include="Controles.xaml.cs">
       <DependentUpon>Controles.xaml</DependentUpon>
     </Compile>
@@ -160,6 +157,7 @@
     <Content Include="Assets\Fondo_Pausa.jpg" />
     <Content Include="Assets\GamepadPanel.png" />
     <Content Include="Assets\ManualInt\aguja.png" />
+    <Content Include="Assets\ManualInt\BotonPausa.png" />
     <Content Include="Assets\ManualInt\Cuadro.png" />
     <Content Include="Assets\ManualInt\Palanca.png" />
     <Content Include="Assets\ManualInt\street map.jpg" />
@@ -198,10 +196,6 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Page Include="BlankPage1.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
     <Page Include="Controles.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
